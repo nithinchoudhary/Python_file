@@ -1,1 +1,1 @@
-# Play rock|paper|scissor game
+# Play rock | paper | scissor game
